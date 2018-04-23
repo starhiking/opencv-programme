@@ -1,0 +1,1 @@
+sudo g++ -g $1  `pkg-config --cflags --libs opencv`
